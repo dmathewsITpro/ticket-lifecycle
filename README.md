@@ -25,7 +25,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>🗂️ Ticket Lifecycle Stages Detailed</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6n0b6G2.png" height="80%" width="60%"
 </p>
 
 ### 1. 🎫 Intake (Ticket Creation by End Users)
