@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/sROAaxm.png" height="80%" width="80%"
+<img src="https://i.imgur.com/sROAaxm.png" height="80%" width="70%"
 </p>
 
 2. 👨‍💻 Assignment and Communication (Admin/Agent Actions)
@@ -56,7 +56,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EsxIEFL.png" height="80%" width="60%"
 </p>
 
 3. 🔧 Working the Issue (Ticket Processing)
