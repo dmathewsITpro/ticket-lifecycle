@@ -69,7 +69,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/evwQT0Y.png" height="80%" width="60%"
 </p>
 
 4. ✅ Resolution (Ticket Closure and Final Notes)
